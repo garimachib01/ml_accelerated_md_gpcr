@@ -18,7 +18,7 @@ For each switch residue:
 
 ---
 
-## 📁 Directory Structure
+## Directory Structure
 
 ```bash
 data/                         # Input data files
@@ -55,7 +55,13 @@ pip install -r requirements.txt
 ```
 
 ---
+## Data Setup
 
+To run the code, you’ll need to download the required PDB structure files.
+
+[Download `pdb_beta2_inverse_ago.zip`](https://cmu.app.box.com/s/y0fhqh78s5j8iaqh2m0xtc7vzl0cn53j)
+
+Once downloaded, extract the contents into the `data/` directory
 ## Pipeline Execution
 
 Run the following steps **in order** from the project root:
