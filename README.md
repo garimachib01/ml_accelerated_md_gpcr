@@ -57,7 +57,7 @@ pip install -r requirements.txt
 ---
 ## Data Setup
 
-To run the code, you’ll need to download the required PDB structure files.
+To run the code, you’ll need to download the required PDB trajectory files.
 
 [Download `pdb_beta2_inverse_ago.zip`](https://cmu.app.box.com/s/y0fhqh78s5j8iaqh2m0xtc7vzl0cn53j)
 
