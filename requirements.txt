@@ -1,0 +1,12 @@
+python>=3.8,<3.12
+numpy
+pandas
+matplotlib
+scipy
+mdtraj
+biopython
+scikit-learn
+xgboost
+openmm
+selenium
+webdriver-manager
